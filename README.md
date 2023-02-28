@@ -41,7 +41,7 @@ The first step for creating a virtual machine in Azure is to first create a reso
 <img src="https://i.imgur.com/mGXJ0lr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After successfully creating the resource group in which the VM will be housed in, the second step is to create the actual VM in Azure you can either select the virtual machine icon or you can simply type it in the search bar. Once there you will click on the create option and the process should start after that.
+After successfully creating the resource group in which the VM will be housed in, the second step is to create the actual VM in Azure you can either select the virtual machine icon or you can simply type it in the search bar. Once there you will click on the create icon and the process should start after that.
 </p>
 <br />
 
