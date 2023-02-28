@@ -49,7 +49,7 @@ After successfully creating the resource group in which the VM will be housed in
 <img src="https://i.imgur.com/RmFGx2v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The third step will consist of making a few selections for that VM such as choosing windows version type as well as it's memory size. 
+The third step will consist of making a few selections for that VM such as choosing windows version type as well as choosing it's memory size. 
 </p>
 <br />
 
