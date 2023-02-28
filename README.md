@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/qgjXOex.png"/>
 </p>
 
-<h1> Creating VM in (Azure)</h1>
+<h1> Creating a VM in (Azure)</h1>
 
 
 This simple project is a step by step guide on how to create a virtual machine in Azure.
